@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(146, 130, 238);
+    padding: 40px;
+
+}
+h1{
+    color: blueviolet;
+}
+.mascota{
+    border: 5px solid #000;
+    
+}
+.imagenes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.textCenter {
+    text-align: center;
+    
+}
